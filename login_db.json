@@ -1,1 +1,4 @@
-
+[
+    {"username": "fxl0", "password": "$2b$12$tOzOqNhbk8zEh4Yx3HCDtOdUypWBAJosrIcFK.Ma7pmxjHboaVora", "banned": false},
+    {"username": "sxl0", "password": "$2b$12$tOzOqNhbk8zEh4Yx3HCDtOdUypWBAJosrIcFK.Ma7pmxjHboaVora", "banned": true}
+]
