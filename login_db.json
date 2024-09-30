@@ -1,4 +1,14 @@
 [
-    {"username": "fxl0", "password": "$2b$12$tOzOqNhbk8zEh4Yx3HCDtOdUypWBAJosrIcFK.Ma7pmxjHboaVora", "banned": false},
-    {"username": "sxl0", "password": "$2b$12$tOzOqNhbk8zEh4Yx3HCDtOdUypWBAJosrIcFK.Ma7pmxjHboaVora", "banned": true}
+    {
+        "username": "fxl0",
+        "password": "$2b$12$tOzOqNhbk8zEh4Yx3HCDtOdUypWBAJosrIcFK.Ma7pmxjHboaVora",
+        "banned": false,
+        "expiration_date": "2024-12-31T23:59:59"  // Example expiration date
+    },
+    {
+        "username": "sxl0",
+        "password": "$2b$12$tOzOqNhbk8zEh4Yx3HCDtOdUypWBAJosrIcFK.Ma7pmxjHboaVora",
+        "banned": true,
+        "expiration_date": "2023-09-30T23:59:59"  // Example expired date
+    }
 ]
